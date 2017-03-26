@@ -1,1 +1,1 @@
-#cmakedefine USE_MYMATH
+#cmakedefine WITH_TLS
